@@ -24,7 +24,7 @@ This repository contains a **showcase subset** of the PRO iOS app codebase, focu
 
 ## Demo Video
 
-<video src="https://github.com/Maria-Nik/PRO_showcase/raw/main/PRO_showcase/media/pro-demo.mp4" controls width="360"></video>
+**[▶ Watch demo on Yandex Disk](https://disk.yandex.ru/d/kHCDJILEqAo33g)**
 
 ## Notes
 
